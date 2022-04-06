@@ -2,7 +2,6 @@
   font-family: arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
@@ -12,9 +11,6 @@
 }
 
 .Weather h1 {
-  color: #878787;
-
-  display: block;
   font-size: 24px;
   font-weight: 100;
   margin: 20px 0 0 0;
@@ -55,5 +51,4 @@
   position: relative;
   line-height: 1;
   top: -34px;
-  margin-left: 5px;
 }
