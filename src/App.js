@@ -22,6 +22,10 @@ export default function App() {
             target="_blank"
           >
             open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a href="https://earnest-pasca-0ddc95.netlify.app/" target="_blank">
+            hosted on Netlify
           </a>
         </footer>
       </div>
