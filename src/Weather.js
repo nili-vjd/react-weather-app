@@ -60,7 +60,6 @@ export default function Weather(props) {
             </div>
           </div>
         </form>
-        <li className="text-capitalize">{weatherData.description}</li>
         <WeatherInfo data={weatherData} />
         <WeatherForecast coordinates={weatherData.coordinates} />
       </div>
