@@ -3,7 +3,11 @@
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(135, 135, 135);
+  color: #878787;
+}
+
+.Weather form {
+  margin-bottom: 20px;
 }
 
 .Weather h1 {
@@ -28,7 +32,6 @@
 .Weather canvas {
   margin-right: 10px;
   margin-top: 5px;
-  display: inline-block;
 }
 
 .Weather .temperature {
