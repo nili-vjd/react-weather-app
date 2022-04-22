@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://www.linkedin.com/in/armita-vajed?originalSubdomain=ir"
             targe="_blank"
+            rel="noopener noreferrer"
           >
             {" "}
             Armita Vajed{" "}
@@ -20,6 +21,7 @@ export default function App() {
           <a
             href="https://github.com/nili-vjd/react-weather-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
